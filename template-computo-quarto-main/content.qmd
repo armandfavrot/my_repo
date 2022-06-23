@@ -8,7 +8,7 @@ author:
     affiliation-url: https://www.sfds.asso.fr/
 date: last-modified
 abstract: >+
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere vestibulum facilisis. Aenean pretium orci augue, quis lobortis libero accumsan eu. Nam mollis lorem sit amet pellentesque ullamcorper. Curabitur lobortis libero eget malesuada vestibulum. Nam nec nibh massa. Pellentesque porttitor cursus tellus. Mauris urna erat, rhoncus sed faucibus sit amet, venenatis eu ipsum.
+  Je fais un test. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere vestibulum facilisis. Aenean pretium orci augue, quis lobortis libero accumsan eu. Nam mollis lorem sit amet pellentesque ullamcorper. Curabitur lobortis libero eget malesuada vestibulum. Nam nec nibh massa. Pellentesque porttitor cursus tellus. Mauris urna erat, rhoncus sed faucibus sit amet, venenatis eu ipsum.
 citation:
   type: article-journal
   container-title: "Computo"
@@ -128,6 +128,8 @@ You can use Jupyter for Python code and more. And R + KnitR for if you want to m
 
 ```{r r-code, echo=TRUE}
 x <- rnorm(10)
+y = rnorm(3)
+y
 ```
 
 
